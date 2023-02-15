@@ -4,17 +4,17 @@
 
 <h3> Cliente <h3>
    
-   - Lenilton - Diretor da Coordenação de Gestão Acadêmica do IFPE
+   - Lenilton - *Diretor da Coordenação de Gestão Acadêmica do IFPE*
    
    - Marco Eugênio - *Diretor de Avaliação e Desenvolvimento de Tecnologia do IFPE*
   
 <h3> Consultoria/Auxiliares <h3>
     
-  - Alexandre Vasconcelos - Planejamento de Gerenciamento de Projetos
+  - Alexandre Vasconcelos - *Planejamento de Gerenciamento de Projetos*
    
-  - Jéssyka Vilela - Gestão de Processos de Negócio
+  - Jéssyka Vilela - *Gestão de Processos de Negócio*
    
-  - Simone Santos - Sistemas de Gestão Empresarial
+  - Simone Santos - *Sistemas de Gestão Empresarial*
    
 <h3> Equipe <h3>
     
