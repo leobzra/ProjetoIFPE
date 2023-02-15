@@ -8,11 +8,16 @@
   
  <h4> Consultoria/Auxiliares <h4>
   - Alexandre Vasconcelos - Planejamento de Gerenciamento de Projetos
+   
   - Jéssyka Vilela - Gestão de Processos de Negócio
+   
   - Simone Santos - Sistemas de Gestão Empresarial
    
  <h4> Equipe <h4>
    - Arthur Luis
+   
    - Júlio Bem
+   
    - Leonardo Bezerra
+   
    - Vitor Malta
