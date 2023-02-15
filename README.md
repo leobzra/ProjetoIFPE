@@ -9,7 +9,8 @@
    
    - Marco Eugênio - *Diretor de Avaliação e Desenvolvimento de Tecnologia do IFPE*
   <h4>
-<h3> Consultoria/Auxiliares <h3>
+     
+<h3> Facilitadores/Auxiliares <h3>
     <h4>
 
   - Alexandre Vasconcelos - *Planejamento de Gerenciamento de Projetos*
@@ -18,6 +19,7 @@
    
   - Simone Santos - *Sistemas de Gestão Empresarial*
    <h4>
+      
 <h3> Equipe <h3>
     <h4>
 
