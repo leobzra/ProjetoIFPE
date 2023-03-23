@@ -36,3 +36,9 @@
 
 <h3> TRELLO <h3>
 https://trello.com/b/uMZAsMUA/projeto-gpn-pgp-sge
+(Descontinuado)
+   
+<h3> GITHUB <h3>
+https://github.com/leusme/ProjetoIFPE/edit
+
+<h3> NOTION <h3>
