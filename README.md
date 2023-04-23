@@ -30,8 +30,7 @@
    - Júlio Bem
    
    - Leonardo Bezerra
-   
-   - Vitor Malta
+
    <h4>
 
 <h3> TRELLO <h3>
